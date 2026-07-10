@@ -1,6 +1,6 @@
 📊 PhonePe Data Analysis Dashboard | Power BI
 
-Power BI DAX Power Query Excel Business Intelligence
+Power BI | DAX | Power Query | Excel | Business Intelligence
 
 📌 Project Overview
 Digital payment platforms generate enormous volumes of transaction data every day. Transforming this raw data into meaningful business insights helps organizations monitor performance, understand customer behavior, and make informed business decisions.
