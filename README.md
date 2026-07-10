@@ -1,3 +1,4 @@
+
 📊 PhonePe Data Analysis Dashboard | Power BI
 
 Power BI | DAX | Power Query | Excel | Business Intelligence
@@ -7,9 +8,8 @@ Digital payment platforms generate enormous volumes of transaction data every da
 
 This project showcases an interactive PhonePe Data Analysis Dashboard developed using Microsoft Power BI. The dashboard provides a comprehensive view of digital payment transactions through dynamic visualizations, KPI cards, DAX calculations, slicers, and business insights.
 
-As part of my Power BI learning journey, I recreated this dashboard by following the educational tutorial published by Anushka Purwar on the DataCliq YouTube channel. While the project workflow and dashboard design are based on the tutorial, building it helped me strengthen my practical understanding of Power BI development, data modeling, Power Query, DAX, and dashboard storytelling.                               
-
 📁 Repository Contents
+
 ├── 📄 PhonePe Power BI Dashboard.pbix        
 ├── 📊 Phonepe-Dataset.xlsx          
 ├── 🖼️ PhonePE Dashboard Preview.png         
