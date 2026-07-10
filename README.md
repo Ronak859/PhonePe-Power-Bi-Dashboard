@@ -11,7 +11,7 @@ As part of my Power BI learning journey, I recreated this dashboard by following
 
 📸 Dashboard Preview
 
-<img width="1191" height="679" alt="Screenshot_10-7-2026_232524_" src="https://github.com/user-attachments/assets/e25312fa-8b18-409d-9cd0-8527d2da1cc9" />
+<img width="1177" height="676" alt="Screenshot_10-7-2026_233027_" src="https://github.com/user-attachments/assets/86d219fc-df34-4472-84e7-fe109ceb2f98" />
 
 
 Dashboard Preview
