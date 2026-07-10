@@ -20,64 +20,59 @@ This project showcases an interactive PhonePe Data Analysis Dashboard developed 
 <img width="1177" height="676" alt="Screenshot_10-7-2026_233027_" src="https://github.com/user-attachments/assets/86d219fc-df34-4472-84e7-fe109ceb2f98" />
 
 
-Dashboard Preview
-
-🎯 Business Objectives
-The dashboard helps analyze:
-
-Digital payment transaction performance
-Total transaction value
-Monthly transaction trends
-Customer usage patterns
-Payment success and failure rates
-Age-wise customer contribution
-Weekday vs Weekend transaction behavior
-Top performing users
-Service-wise transaction value
-
-📊 Dashboard Features
 KPI Cards
-Total Transactions
-Total Transaction Value
-Unique Users
-Success Rate
+- Total Transactions
+- Total Transaction Value
+- Unique Users
+- Payment Success Rate
+
 Interactive Analysis
-Payment Status Analysis
-Monthly Trend Analysis
-Service Transaction Analysis
-Age Segment Contribution
-Top Users
-Weekday vs Weekend Usage
-Dynamic Slicers
-Business Insight Panel
+- Payment Status Analysis
+- Monthly Transaction Trends
+- Service-wise Transaction Analysis
+- Age Segment Contribution
+- Top Users
+- Weekday vs Weekend Comparison
+- Dynamic Slicers
+- Business Insight Panel
+
+---
 
 📈 Key Insights
-Weekday transactions are significantly higher than weekend transactions.
-Loan services contribute the highest transaction value.
-Millennials represent the largest customer segment.
-Payment success rate remains consistently high.
-Monthly filtering enables detailed trend analysis.
-Interactive visuals improve business decision-making.
+
+- Weekday transactions are significantly higher than weekend transactions.
+- Loan services contribute the highest transaction value.
+- Millennials represent the largest customer segment.
+- Payment success rates remain consistently high.
+- Monthly filtering enables detailed trend analysis.
+- Interactive visuals support better business decision-making.
+
+---
 
 🛠️ Tools & Technologies
-Microsoft Power BI
-Microsoft Excel
-Power Query
-DAX (Data Analysis Expressions)
-Data Modeling
-Data Visualization
-Business Intelligence
-📚 Skills Practiced
-During this project I strengthened my practical understanding of:
 
-Data Cleaning
-Power Query Transformations
-Data Modeling
-DAX Measures
-Interactive Dashboard Design
-KPI Development
-Business Storytelling
-Data Visualization Best Practices
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Data Visualization
+- Business Intelligence
+
+---
+
+📚 Skills Demonstrated
+
+During this project, I strengthened my understanding of:
+
+- Data Cleaning
+- Power Query Transformations
+- Data Modeling
+- DAX Measures
+- Interactive Dashboard Design
+- KPI Development
+- Business Storytelling
+- Data Visualization Best Practices
  
 🎥 Dashboard Walkthrough
 A short demonstration of the interactive dashboard is available on my LinkedIn profile.
